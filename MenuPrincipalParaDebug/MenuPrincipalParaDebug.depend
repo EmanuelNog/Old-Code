@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1624910400 source:f:\estruturaquarentena\menuprincipalparadebug\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	"criarArquivo.h"
+	"bubbleSort.h"
+	"insertionSort.h"
+	"selectionSort.h"
+	"quickSort.h"
+
+1624848758 f:\estruturaquarentena\menuprincipalparadebug\criararquivo.h
+	<time.h>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1624675607 f:\estruturaquarentena\menuprincipalparadebug\bubblesort.h
+
+1624740389 f:\estruturaquarentena\menuprincipalparadebug\insertionsort.h
+
+1624852980 f:\estruturaquarentena\menuprincipalparadebug\selectionsort.h
+
+1624907175 f:\estruturaquarentena\menuprincipalparadebug\quicksort.h
+
